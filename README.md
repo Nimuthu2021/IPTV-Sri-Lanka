@@ -34,6 +34,6 @@ For Linux : Download and install VLC media player
              
 I'm still searching for more channels
 
-I would ask the communty help for the other channels. Feel free to drop the iptv links to the 
-              
+I would ask the communty help for the other channels. Feel free to drop the iptv links to the my email
+nimuthuganegoda2021@gmail.com             
       
