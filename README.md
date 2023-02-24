@@ -2,10 +2,11 @@ To Watch
 
 Download this File to whatever the device
 
-For Windows : Download and install VLC media player
+For Windows : Download and install VLC media player 
               then download this .m3u8 file 
               then open the file with VLC.
-              VlC : https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
+              VLC : https://get.videolan.org/vlc/3.0.18/win64/vlc-3.0.18-win64.exe
+              Please try other applications  
             
 For ios : install WhatsUp Tv ( you can use VLC but its not recommended since it get stuck all the time )
           then download this then share 
