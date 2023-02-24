@@ -56,7 +56,7 @@ http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115819
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115820
 #EXTINF:-1 group-title ="United States", HBO Comedy
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/115821
-#EXTINF:-1 group-title ="United States", CNN
+#EXTINF:-1 group-title ="United States", CNN group-title="News"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/30929
 #EXTINF:-1 tvg-id="GBBC2300002GG" tvg-chno="4006" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20230208T012818SQUARE.png_20230208012818.png" group-title="United States" , America's Got Talent
 https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -70,8 +70,6 @@ https://ldsaaaaaa-realwild-samsunguk-k1ho9.amagi.tv/playlist/ldsAAAAAA-realwild-
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwild-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="GBBC4300002RW" tvg-chno="4273" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300002RW_20230125T022354SQUARE.png_20230125022354.png" group-title="United Kingdom" , WildEarth
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="GBBC4300005AL" tvg-chno="4607" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC4300005AL_20221109T010843SQUARE.png_20221109010844.png" group-title="United Kingdom" , The LEGO Channel
-https://dpiajq84g19x0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-otgmpzd5gkcgk-ssai-prd/mhls?appId=2&feedId=1314-v57&auth-token=1213111&version=sv8.0&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="GBBC2100002HP" tvg-chno="4716" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2100002HP_20220810T012606SQUARE.png_20220810012606.png" group-title="United Kingdom",group-title="Music" , Vevo '90s & '00s
 https://eu.linear.zype.com/dbd38661-af53-44d2-b5e7-cec4bf963939/d476b7a5-eabc-4afd-8760-b049d5a6dbd9-samsung-tv/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D&TC_STRING=%7BTC_STRING%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-id="GBBC900003B2" tvg-chno="4717" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC900003B2_20220914T041027SQUARE.png_20220914041027.png" group-title="United Kingdom",group-title="Music" , Now 80s
@@ -88,7 +86,7 @@ https://d2yhuqxy1ky6ij.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://duj0m5mtx2apx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tmtp539lujxbj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 tvg-id="USBC3600008WY" tvg-chno="1517" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20221109T013901SQUARE.png_20221109013902.png" group-title="United States",group-title="Music" , Vevo Pop
 https://d28edobz3hqdpi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-shs19slqofvwj-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-#EXTINF:-1 tvg-id="USBB1500001GD" tvg-chno="1023" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20221109T013537SQUARE.png_20221109013538.png" group-title="United States" , USA Today
+#EXTINF:-1 tvg-id="USBB1500001GD" tvg-chno="1023" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20221109T013537SQUARE.png_20221109013538.png" group-title="United States" , USA Today group-title="News"
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/usatoday-usatodaynews-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="USBC2400027NG" tvg-chno="1189" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230131T052106SQUARE.png_20230131052106.png" group-title="United Kingdom" , Top Gear
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -116,11 +114,11 @@ http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32460
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32462
 #EXTINF:-1 group-title="United Kingdom", Sky History
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32463
-#EXTINF:-1 group-title="United Kingdom", Sky News
+#EXTINF:-1 group-title="United Kingdom", Sky News group-title="News"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32472
-#EXTINF:-1 group-title="United Kingdom", BBC News
+#EXTINF:-1 group-title="United Kingdom", BBC News group-title="News"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32474
-#EXTINF:-1 group-title="United Kingdom", EuroNews HD
+#EXTINF:-1 group-title="United Kingdom", EuroNews HD group-title="News"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32483
 #EXTINF:-1 group-title="United Kingdom", Sky Cinema Action
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32541
@@ -136,13 +134,13 @@ http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32592
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32593
 #EXTINF:-1 group-title="United Kingdom", CBeebies FHD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32594
-#EXTINF:-1 group-title="United Kingdom",group-title="Music" MTV
+#EXTINF:-1 group-title="United Kingdom", MTV group-title="Music"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32600
-#EXTINF:-1 group-title="United Kingdom",group-title="Music" MTV Classic
+#EXTINF:-1 group-title="United Kingdom", MTV Classic group-title="Music" 
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32602
-#EXTINF:-1 group-title="United Kingdom",group-title="Music", MTV Hits
+#EXTINF:-1 group-title="United Kingdom", MTV Hits group-title="Music"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32603
-#EXTINF:-1 group-title="United Kingdom",group-title="Music" MTV Music
+#EXTINF:-1 group-title="United Kingdom", MTV Music group-title="Music"
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32606
 #EXTINF:-1 group-title="United Kingdom", Sky Cinema Premiere
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127530
@@ -172,45 +170,39 @@ http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127569
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127573
 #EXTINF:-1 group-title="United Kingdom", Discovery Channel
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127578
-#EXTINF:-1 group-title="United Kingdom","Sports", Sky Sports Premier League
-http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32552
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Football
+#EXTINF:-1 group-title="United Kingdom", Sky Sports Football group-title="Sports", Sky Sports Football
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32553
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Main Event
+#EXTINF:-1 group-title="United Kingdom", Sky Sports Main Event ,group-title="Sports", Sky Sports Main Event
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32554
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Arena
+#EXTINF:-1 group-title="United Kingdom", Sky Sports Arena ,group-title="Sports", Sky Sports Arena
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32556
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Golf
+#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Golf ,group-title="Sports", Sky Sports Golf
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32559
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports F1
+#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports F1 ,group-title="Sports", Sky Sports F1 
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32560
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Eurosport 1 HD
+#EXTINF:-1 group-title="United Kingdom", Eurosport 1 HD ,group-title="Sports", Eurosport 1 HD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32569
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Eurosport 2 HD
+#EXTINF:-1 group-title="United Kingdom", Eurosport 2 HD ,group-title="Sports", Eurosport 2 HD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32570
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Red Bull TV
-http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32578
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Horse And Country
-http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/32581
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Premier Sports 1
+#EXTINF:-1 group-title="United Kingdom", Premier Sports 1 ,group-title="Sports", Premier Sports 1
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127415
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Premier Sports 2
+#EXTINF:-1 group-title="United Kingdom", Premier Sports 2 ,group-title="Sports", Premier Sports 2
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127416
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports News
+#EXTINF:-1 group-title="United Kingdom", Sky Sports News ,group-title="Sports", Sky Sports News 
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127616
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Cricket
+#EXTINF:-1 group-title="United Kingdom", Sky Sports Cricket ,group-title="Sports", Sky Sports Cricket
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127618
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports F1 HD
+#EXTINF:-1 group-title="United Kingdom", Sky Sports F1 HD ,group-title="Sports", Sky Sports F1 HD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127620
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", Sky Sports Racing
+#EXTINF:-1 group-title="United Kingdom", Sky Sports Racing ,group-title="Sports", Sky Sports Racing
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127621
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", BT Sport 1 FHD
+#EXTINF:-1 group-title="United Kingdom", BT Sport 1 FHD ,group-title="Sports", BT Sport 1 FHD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127626
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", BT Sport 2 FHD
+#EXTINF:-1 group-title="United Kingdom",, BT Sport 2 FHD ,group-title="Sports", BT Sport 2 FHD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127627
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", BT Sport 3 HD
+#EXTINF:-1 group-title="United Kingdom", BT Sport 3 HD ,group-title="Sports",BT Sport 3 HD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127628
-#EXTINF:-1 group-title="United Kingdom",group-title="Sports", BT Sport ESPN FHD
+#EXTINF:-1 group-title="United Kingdom", BT Sport ESPN FHD ,group-title="Sports",  BT Sport ESPN FHD
 http://sintoniaideal.com:25461/tafconew29/ADjlrXVLas345/127629
 #EXTINF:-1 tvg-id="GBBA3300020DM" tvg-chno="4983" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230208T012827SQUARE.png_20230208012828.png" group-title="United Kingdom" , Rakuten TV Romance
 https://e01e7498d9ae4f618d35154ec7d9dda0.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_RakutenRomance/playlist.m3u8?ads.wurl_channel=888&ads.wurl_name=RakutenRomance&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -222,7 +214,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02537-skandhamediaser-koreantv-sa
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="INBB2800007DA" tvg-chno="1004" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBB2800007DA_20221214T015313SQUARE.png_20221214015313.png" group-title="India" , Discovery
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="INBC2800005X4" tvg-chno="1027" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20220928T010048SQUARE.png_20220928010049.png" group-title="India" , India Today
+#EXTINF:-1 tvg-id="INBC2800005X4" tvg-chno="1027" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800005X4_20220928T010048SQUARE.png_20220928010049.png" group-title="India" , India Today group-title="News"
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-indiatoday-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="INBC1500002TR" tvg-chno="1166" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC1500002TR_20220427T054732SQUARE.png_20220427054733.png" group-title="India" , Animal Planet HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-animalplanthdin-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
