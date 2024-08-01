@@ -1,4 +1,4 @@
-Please note that most of them aren't working right now 
+Update Some are not working now 
 
 To Watch
 
